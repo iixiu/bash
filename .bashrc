@@ -1,0 +1,6 @@
+#PS1='[\u@\h:\W]\$ '
+#PS1='\[\e[1;36m\]\A \[\e[1;33m\]\u\[\e[1m\]@\h \[\e[1;32m\][\W]\[\e[0m\] > '
+PS1='\[\e[1;32m\][\W]\[\e[0m\] > '
+alias ls='ls --color=auto'
+alias ll='ls -lA'
+alias grep='grep --color'
