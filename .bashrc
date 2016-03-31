@@ -2,6 +2,7 @@ PS1='\[\e[1;32m\][\W]\[\e[0m\] > '
 alias ls='ls -FG'
 alias ll='ls -la'
 alias grep='grep --color'
+set filec
 
 # For colourful man pages (CLUG-Wiki style)
 export LESS_TERMCAP_mb=$'\E[01;31m'
