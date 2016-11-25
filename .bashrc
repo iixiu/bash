@@ -1,5 +1,5 @@
 PS1='\[\e[1;32m\][\W]\[\e[0m\] > '
-alias ls='ls -FG'
+alias ls='ls -FGI'
 alias ll='ls -la'
 alias grep='grep --color'
 set filec
